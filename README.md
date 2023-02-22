@@ -4,7 +4,15 @@
 
 2- Una vez creado el proyecto, entro en la carpeta del mismo y desde la consola creo cada módulo con el comando: nest generate [nombre-modulo]. Hago esto para cada uno de los módulos que necesite crear.
 
+
+![2023-02-20_20h59_34](https://user-images.githubusercontent.com/72228855/220507033-6b064c88-2248-4515-8c1f-f7b78981fc1f.png)
+
+
+
 3- Luego que se crean los módulos tengo que crear para cada uno una carpeta llamada controller utilizo el comando: mkdir controller.
+
+![2023-02-18_19h05_12](https://user-images.githubusercontent.com/72228855/220507345-0e0f059e-7e33-4d00-bc22-dd0c0e31a69b.png)
+
 
 4- Luego me posiciono en la carpeta controller y empiezo a crear el controlador correspondiente al módulo con el comando: nest generate controller [nombre-controlador]. Realizo lo mismo para cada módulo dentro de su carpeta controller correspondiente.
 
