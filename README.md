@@ -19,7 +19,7 @@
 5- Para crear los servicios creo una carpeta llamada service en cada uno de los módulos y luego por consola escribo: nest generate service [nombre-servicio]
 
 6- Los servicios creados en el punto anterior, deben de ser inyectados en los controladores de sus respectivos módulos. Deben de ser usados cumpliendo las siguientes direcciones:
-   -Users (GET users/message) : debe de traer como resultado el siguiente mensaje: Hola desde el servicio de Users
+   - Users (GET users/message) : debe de traer como resultado el siguiente mensaje: Hola desde el servicio Users
    
    Resultado:
    
@@ -27,7 +27,7 @@
 
    
    
-   -Tasks (GET task/message): debe de traer como resultado el siguiente mensaje: Hola desde el servicio de Tasks
+   - Tasks (GET task/message): debe de traer como resultado el siguiente mensaje: Hola desde el servicio Tasks
    
    Resultado:
    
@@ -35,7 +35,7 @@
 
    
    
-   -Contacts (GET contacts/message): debe de traer como resultado el siguiente mensaje: Hola desde el servicio de Contacts
+   - Contacts (GET contacts/message): debe de traer como resultado el siguiente mensaje: Hola desde el servicio Contacts
    
    Resultado:
    
